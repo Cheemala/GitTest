@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">GitTest</string>
     <string name="title_activity_second">SecondScreen</string>
+    <string name="nam_hint_txt">Enter Name</string>
+    <string name="eml_hint_txt">Enter Email</string>
+    <string name="pswrd_txt">Enter Password</string>
 </resources>
